@@ -1,1 +1,1 @@
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=digoofr&show_icons=true)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=digoofr&theme=gruvbox&show_icons=true)
